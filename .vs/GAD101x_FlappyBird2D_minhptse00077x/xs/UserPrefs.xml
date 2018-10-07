@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{FB147EF6-2D7A-A6E7-03FE-5084956F0D4C}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Controller/LockResolution.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BGScaler/BGScaler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BirdController/BirdController.cs" Line="41" Column="5" />
+      <File FileName="Assets/Scripts/Controller/ChangeBG.cs" Line="31" Column="10" />
+      <File FileName="Assets/Scripts/Controller/GamePlayController.cs" Line="98" Column="64" />
+      <File FileName="Assets/Scripts/Controller/LockResolution.cs" Line="10" Column="25" />
+      <File FileName="Assets/Scripts/Controller/MainMenuController.cs" Line="23" Column="5" />
+      <File FileName="Assets/Scripts/Controller/MedalController.cs" Line="11" Column="1" />
+      <File FileName="Assets/Scripts/Fade/MyCoroutine.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Fade/SceneFader.cs" Line="28" Column="6" />
+      <File FileName="Assets/Scripts/PipeController/PipeHolder.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Spanwer Pipe/SpawnerPipe.cs" Line="22" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
